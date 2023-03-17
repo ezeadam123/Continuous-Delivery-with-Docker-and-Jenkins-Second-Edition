@@ -1,3 +1,8 @@
+/**
+*Checking for Javadoc comments
+*This code will test to ensure the sum of (2,3) is 
+*equal to 5
+*/
 package com.leszko.calculator;
 import org.junit.Test;
 import static org.junit.Assert.assertEquals;
